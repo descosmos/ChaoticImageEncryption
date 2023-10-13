@@ -11,9 +11,9 @@ ImageEncrypion is a repertory containing several image encryption algorithms.
 All availiable algorithms are based on matlab.
 
 ## Developing Enviorment
-> To run code, you must have to download MATLAB R2016a first.
+- MATLAB R2016a
 
-Code relative to sci is stored in .\ImageEncryption-master\sci folder.
+Code relative to sci is stored in `.\ImageEncryption-master\sci` folder.
 
 ## Citation
 If you find this code helpful for your research, please cite:
